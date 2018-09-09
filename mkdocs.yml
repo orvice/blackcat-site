@@ -1,8 +1,9 @@
-site_name: Black Monitor 
+site_name: BlackCat Monitor 
 
 
 pages:
     - Home: index.md
+    - Install: Install.md
 
 theme:
   name: 'material'
