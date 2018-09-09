@@ -3,7 +3,7 @@
 !!! tip "注意"
     此教程为Docker安装方式，请确保您的机器支持Docker.
 
-!!! info
+!!! info "提示"
     请确保您的机器上安装了[Docker](https://docs.docker.com/install/)以及[docker-compose](https://docs.docker.com/compose/install/)
 
 
@@ -21,6 +21,12 @@ cd /data/monitor-client
 wget https://raw.githubusercontent.com/orvice/monitor-client/master/docker-compose.yml
 docker-compose up -d
 ```
+
+!!! info "默认网卡修改"
+    默认网卡为eth0,可以在docker-compose.yml里修改 NET_INTERFACE=eth0
+
+
+
 
 
 ## 安装 Server以及UI
