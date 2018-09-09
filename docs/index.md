@@ -2,7 +2,9 @@
 
 BlackCat Monitor
 
-查看[安装](/install)
+* 查看[安装](/install)
+
+* 查看[Demo](https://ui.lovec.at)
 
 
 黑猫监控由3个部分组成
@@ -12,5 +14,12 @@ BlackCat Monitor
 * [monitor-ui](https://github.com/orvice/monitor-ui)
 
 
+### 功能
 
+目前黑猫支持以下功能:
 
+* 服务器负载查看
+* 服务器实时流量查看
+* 服务器内存
+* 服务器硬盘容量查看
+* 服务器连通性(是否被墙)

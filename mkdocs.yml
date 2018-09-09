@@ -3,7 +3,7 @@ site_name: BlackCat Monitor
 
 pages:
     - Home: index.md
-    - Install: Install.md
+    - Install: install.md
 
 theme:
   name: 'material'
