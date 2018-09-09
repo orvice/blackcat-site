@@ -10,3 +10,5 @@ theme:
 
 markdown_extensions:
   - admonition
+
+google_analytics: ['UA-20193061-1', 'blackcat.orx.me']
